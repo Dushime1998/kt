@@ -18,6 +18,7 @@
         <div class="m-4">
          @include('components.category')
        </div>
+       {{-- n --}}
        <div class="pt-16 flex flex-col lg:flex-row bg-gray-100 ">
 <div>
     @include('components.moreTolove')
